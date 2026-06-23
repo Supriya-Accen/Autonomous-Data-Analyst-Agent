@@ -1,4 +1,4 @@
-# Autonomous-Data-Analyst-Agent
+# ReAct-RAG-Data-Analyst-Agent
 Fabric + ReAct + RAG
 
 ## Overview
